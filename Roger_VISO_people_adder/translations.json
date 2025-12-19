@@ -1,0 +1,38 @@
+{
+    "en": {
+        "appName": "Roger Viso People Adder",
+        "tab_Main": "Home page",
+        "label_Language": "Language:",
+        "section_Settings_General": "General",
+        "error_GUIBuilderInvalidParam": "Invalid GUI code!",
+        "error_Error": "Error",
+        "button_Save": "Save",
+        "button_Continue": "Continue",
+        "button_ShowPassword": "\uD83D\uDD11 Show password",
+        "button_HidePassword": "\uD83D\uDD10 Hide password",
+        "error_CloseAllWinSCPWindows": "Close all Roger VISO windows first!",
+        "title_ErrorCloseAllWinSCPWindows": "Close Roger VISO windows",
+        "label_MasterPassword": "Password:",
+        "placeholder_MasterPassword": "master_password",
+        "label_Username": "Username:",
+        "placeholder_Username": "Admin"
+    },
+    "pl": {
+        "appName": "Dodawanie osób w Roger VISO",
+        "tab_Main": "Strona główna",
+        "label_Language": "Język:",
+        "section_Settings_General": "Ogólne",
+        "error_GUIBuilderInvalidParam": "Niepoprawny kod GUI!",
+        "error_Error": "Błąd",
+        "button_Save": "Zapisz",
+        "button_Continue": "Kontynuuj",
+        "button_ShowPassword": "\uD83D\uDD11 Pokaż hasło",
+        "button_HidePassword": "\uD83D\uDD10 Ukryj hasło",
+        "error_CloseAllWinSCPWindows": "Zamknij najpierw wszystkie okna Roger VISO!",
+        "title_ErrorCloseAllWinSCPWindows": "Zamknij okna Roger VISO",
+        "label_MasterPassword": "Hasło główne:",
+        "placeholder_MasterPassword": "haslo_glowne",
+        "label_Username": "Nazwa użytkownika:",
+        "placeholder_Username": "Admin"
+    }
+}
