@@ -1,4 +1,9 @@
 ﻿{
     "viso_exe_path": "C:\\Program Files\\ROGER\\VISO\\VISO.exe",
-    "language": "pl"
+    "language": "pl",
+    "app_loading_timeout": 10000,
+    "tab_loading_timeout": 3500,
+    "modal_window_loading_timeout": 2500,
+    "select_text_input_timeout": 500,
+    "subtab_loading_timeout": 1000
 }
