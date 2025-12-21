@@ -15,7 +15,11 @@
         "label_MasterPassword": "Password:",
         "placeholder_MasterPassword": "master_password",
         "label_Username": "Username:",
-        "placeholder_Username": "Admin"
+        "placeholder_Username": "Admin",
+        "error_CannotFindSpecifiedWindow": "Could not find target window:",
+        "title_CannotFindSpecifiedWindow": "Could not find window",
+        "error_FinishedSuccessfully": "Successfully added people:",
+        "title_FinishedSuccessfully": "Finished successfully"
     },
     "pl": {
         "appName": "Dodawanie osób w Roger VISO",
@@ -33,6 +37,10 @@
         "label_MasterPassword": "Hasło główne:",
         "placeholder_MasterPassword": "haslo_glowne",
         "label_Username": "Nazwa użytkownika:",
-        "placeholder_Username": "Admin"
+        "placeholder_Username": "Admin",
+        "error_CannotFindSpecifiedWindow": "Nie udało się odnaleźć podanego okna:",
+        "title_CannotFindSpecifiedWindow": "Nie udało się odnaleźć okna",
+        "error_FinishedSuccessfully": "Pomyślnie dodano osoby:",
+        "title_FinishedSuccessfully": "Zakończono pomyślnie"
     }
 }
